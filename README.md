@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Jaime Hernandez! 👋
 
-<!--
-**Nukedae/Nukedae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Software Developer with a passion for building intuitive, clean, and creative user experiences.  
+Currently focused on front-end development, UI/UX design, and expanding my skills in full-stack technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm working on
+- Building projects to strengthen my React, JavaScript, and API integration skills.
+- Designing creative UI/UX layouts with Figma and translating them into code.
+- Exploring back-end basics with Node.js and SQL to better support my front-end projects.
+
+## 🌱 What I'm learning
+- Deepening my knowledge of React and component-based design.
+- Mastering Git and GitHub workflows for team collaboration.
+- Improving my UI/UX design skills and responsive web development.
+
+## 💬 My passion 
+- Front-end development (HTML/CSS/JavaScript/React)
+- UI/UX design principles
+- Building responsive websites and apps
+
+## 📫 How to reach me
+- Email: Nukedae@gmail.com
+- Portfolio Website (Coming soon)
+
+## ⚡ Fun fact
+I love combining technology with creativity and building projects that are as beautiful as they are functional.
+
+---
