@@ -8,7 +8,7 @@ Currently focused on front-end development, UI/UX design, and expanding my skill
 ##  What I'm working on
 - Building projects to strengthen my React, JavaScript, and API integration skills.
 - Designing creative UI/UX layouts with Figma and translating them into code.
-- Exploring back-end basics with Node.js and SQL to better support my front-end projects.
+- Exploring back-end basics to better support my front-end projects.
 
 ##  What I'm learning
 - Deepening my knowledge of React and component-based design.
