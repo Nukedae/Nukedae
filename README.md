@@ -1,7 +1,7 @@
 # Hi there, I'm Jaime! 👋
 
 An aspiring Software Developer with a passion for building intuitive, clean, and creative user experiences.  
-Currently focused on front-end development, UI/UX design, and expanding my skills in full-stack technologies.
+Currently focused on iOS app development, front-end development, UI/UX design, and expanding my skills in full-stack technologies.
 
 ![Postman Certified](https://img.shields.io/badge/Postman%20Student%20Expert-Certified-orange?logo=postman)
 
