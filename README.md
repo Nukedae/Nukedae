@@ -22,28 +22,20 @@ Currently focused on front-end development, UI/UX design, and expanding my skill
 - Building projects to strengthen my React, JavaScript, and API integration skills.
 - Designing creative UI/UX layouts with Figma and translating them into code.
 - Exploring back-end basics to better support my front-end projects.
+- iOS Specialization learning Swift, Xcode, UIKit, SwiftftUI and mobile UI/UX design.
 
 ## What I'm learning:
 - Deepening my knowledge of React and component-based design.
 - Mastering Git and GitHub workflows for team collaboration.
 - Improving my UI/UX design skills and responsive web development.
 
-## My passion:
+## My passion: 
+I love combining technology with creativity and building projects that are as beautiful as they are functional.
 - Front-end development (HTML/CSS/JavaScript/React)
 - UI/UX design principles
 - Building responsive websites and apps
 
-## iOS Specialization (In Progress):
-I'm expanding into iOS development using Swift to bring beautiful mobile apps to life.  
-Currently focused on:
-- Learning Swift and building foundational iOS apps
-- Practicing UIKit & SwiftUI for layout and interaction
-- Using APIs within iOS projects (leveraging my Postman API certification)
-- Gaining experience with Xcode workflows and mobile UI/UX design
-
 ## How to reach me:
 - Email: Nukedae@gmail.com
 - Portfolio Website (In progress)
-
-I love combining technology with creativity and building projects that are as beautiful as they are functional.
 
